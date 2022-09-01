@@ -4,4 +4,4 @@ NPM     : 2106751796
 
 Kelas   : A
 
-Hobi    : Nyanyi
+Hobi    : Turu
